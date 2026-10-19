@@ -1,9 +1,9 @@
 # Fork notes
 
-This repository is a fork of [nhoral/KenshiCoop](https://github.com/nhoral/KenshiCoop),
-imported with its full history at upstream `v0.51` (`5a761e1`). It stays AGPL-3.0 and
-keeps the upstream credits. Fixes made here are sent back upstream as pull requests,
-one bug per branch.
+This repository is a GitHub fork of [nhoral/KenshiCoop](https://github.com/nhoral/KenshiCoop),
+taken at upstream `v0.51` (`5a761e1`). It stays AGPL-3.0 and keeps the upstream credits.
+Fixes made here are sent back upstream as pull requests, one bug per branch, opened
+from this fork against `nhoral/KenshiCoop:main`.
 
 ## Working with upstream
 
