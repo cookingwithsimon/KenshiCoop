@@ -78,3 +78,6 @@ nul
 
 # Local-only maintainer notes (release process, etc.) - not for the public repo
 *.local.md
+
+# Per-developer private state for this fork (install paths, logs, saves, PC notes)
+local/
